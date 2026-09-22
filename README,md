@@ -1,0 +1,148 @@
+# To-Do List Application
+
+## 📌 Project Description
+
+A **To-Do List Application** is a simple Python project that helps users manage and organize their daily tasks efficiently.
+
+The application allows users to:
+
+* Add new tasks
+* View existing tasks
+* Mark tasks as completed
+* Delete tasks
+* Exit the application
+
+This project is developed using **Python** and runs in the command line.
+
+## 🎯 Objective
+
+The main objective of this project is to create a simple task-management application using Python programming concepts such as:
+
+* Variables
+* Lists
+* Dictionaries
+* Loops
+* Conditional statements
+* User input
+* Basic CRUD operations
+
+## 🛠️ Technologies Used
+
+* **Programming Language:** Python
+* **Interface:** Command Line / Terminal
+* **Data Storage:** Python List
+
+## ✨ Features
+
+### 1. Add Task
+
+Users can enter and add a new task to the To-Do List.
+
+### 2. View Tasks
+
+Users can view all available tasks and their current status.
+
+### 3. Complete Task
+
+Users can select a task and mark it as completed.
+
+### 4. Delete Task
+
+Users can remove a task from the list.
+
+### 5. Exit
+
+Users can safely exit the application.
+
+## 📂 Project Structure
+
+```text
+To-Do-List/
+│
+├── todo_list.py
+└── README.md
+```
+
+## 💻 How to Run
+
+### Step 1: Install Python
+
+Download and install Python from the official Python website.
+
+### Step 2: Create the Project Folder
+
+Create a folder named:
+
+```text
+To-Do-List
+```
+
+### Step 3: Create the Python File
+
+Inside the folder, create:
+
+```text
+todo_list.py
+```
+
+### Step 4: Add the Code
+
+Copy the To-Do List Python code into `todo_list.py`.
+
+### Step 5: Run the Program
+
+Open the terminal in the project folder and run:
+
+```bash
+python todo_list.py
+```
+
+## 🖥️ Example
+
+```text
+===== TO-DO LIST =====
+1. Add Task
+2. View Tasks
+3. Complete Task
+4. Delete Task
+5. Exit
+
+Enter your choice: 1
+Enter your task: Learn Python
+
+Task added successfully!
+```
+
+## 📚 Learning Outcomes
+
+After completing this project, beginners will understand:
+
+* How Python lists work
+* How dictionaries store information
+* How to take input from users
+* How loops work
+* How conditional statements work
+* How to create a menu-driven application
+* How basic task management systems work
+
+## 🚀 Future Improvements
+
+The project can be improved by adding:
+
+* GUI using Tkinter
+* Save tasks to a file
+* Task priority
+* Due dates
+* Search tasks
+* Edit/update tasks
+* SQLite database
+* Login system
+* Dark mode
+
+## 👨‍💻 Author
+
+**Mahesh Rathod**
+
+## 📄 License
+
+This project is created for **learning and educational purposes**.
